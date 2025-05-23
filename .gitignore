@@ -1,0 +1,7 @@
+# credenciais e arquivos temporários
+*.json
+.env
+
+# Python
+__pycache__/
+*.pyc
