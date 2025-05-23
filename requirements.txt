@@ -50,3 +50,5 @@ tzlocal==5.3.1
 uritemplate==4.1.1
 urllib3==2.4.0
 python-dotenv
+urllib3
+six
